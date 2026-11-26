@@ -93,9 +93,6 @@
 
 3. 启动后先在「邮箱管理」添加发件邮箱，再按下面的流程开始投稿。
 
-> 下载地址：
->
-> [https://github.com/victory6558/tougao-tool/releases/latest](https://github.com/victory6558/tougao-tool/releases/latest)
 
 
 
